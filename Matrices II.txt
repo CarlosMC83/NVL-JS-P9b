@@ -1,0 +1,5 @@
+
+
+
+
+var DiasDeLaSemana = [["lunes", "Madrid"], ["martes", "Sevilla"], ["miércoles", "Barcelona"], ["jueves", "Valencia"], ["viernes", "Zaragoza"], ["sábado", "Bilbao"], ["domingo", "Donosti"]];
